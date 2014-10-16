@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="locationOptions">
+		<item>"0"</item>
+		<item>"0.1 miles"</item>
+		<item>"0.5 miles"</item>
+		<item>"1.0 miles"</item>
+		<item>"2.0 miles"</item>
+	</string-array>
+	<string-array name="timeOptions">
+		<item>"0"</item>
+		<item>"5 minutes"</item>
+		<item>"15 minutes"</item>
+		<item>"1 hour"</item>
+		<item>"3 hours"</item>
+		<item>"6 hours"</item>
+		<item>"12 hours"</item>
+		<item>"1 day"</item>
+		<item>"1 week"</item>
+	</string-array>
+</resources>
