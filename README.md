@@ -16,3 +16,7 @@ Each of these steps were done by our team. The classifier was built in Weka usin
 
 ![Screenshot 1](./screenshot1.gif)
 ![Screenshot 2](./screenshot2.gif)
+
+Download
+--------
+You can download the app with this link: [Mariotivity APK](./app/build/outputs/apk/app-debug.apk)
