@@ -1,4 +1,5 @@
 Mariotivity
 ===========
 
-![Screenshot 1](https://raw.githubusercontent.com/mikesteele/Mariotivity/master/screenshot1.gif) ![Screenshot 2](https://raw.githubusercontent.com/mikesteele/Mariotivity/master/screenshot2.gif)
+![Screenshot 1](https://github.com/YinglaiYang/Mariotivity/blob/master/screenshot1.gif?raw=true)
+![Screenshot 2](./screenshot2.gif)
