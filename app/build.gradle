@@ -1,0 +1,25 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 16
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "edu.umass.cs.client"
+        minSdkVersion 11
+        targetSdkVersion 13
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/BioHarnessBT.jar')
+    compile files('libs/aware1.0.jar')
+    compile files('libs/commons-net-ftp-2.0.jar')
+}

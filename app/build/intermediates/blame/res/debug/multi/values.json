@@ -1,0 +1,182 @@
+[
+    {
+        "outputFile": "/Users/yinglai/AndroidStudioProjects/Mariotivity/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 16,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "/Users/yinglai/AndroidStudioProjects/Mariotivity/app/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endLine": 8,
+                        "endColumn": 16,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endLine": 19,
+                    "endColumn": 16,
+                    "endOffset": 512
+                },
+                "from": {
+                    "file": "/Users/yinglai/AndroidStudioProjects/Mariotivity/app/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 235,
+                        "endLine": 19,
+                        "endColumn": 16,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 517,
+                    "endColumn": 47,
+                    "endOffset": 560
+                },
+                "from": {
+                    "file": "/Users/yinglai/AndroidStudioProjects/Mariotivity/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 47,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 565,
+                    "endColumn": 48,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "/Users/yinglai/AndroidStudioProjects/Mariotivity/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endColumn": 42,
+                    "endOffset": 652
+                },
+                "from": {
+                    "file": "/Users/yinglai/AndroidStudioProjects/Mariotivity/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 42,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 657,
+                    "endColumn": 41,
+                    "endOffset": 694
+                },
+                "from": {
+                    "file": "/Users/yinglai/AndroidStudioProjects/Mariotivity/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 41,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 699,
+                    "endColumn": 31,
+                    "endOffset": 726
+                },
+                "from": {
+                    "file": "/Users/yinglai/AndroidStudioProjects/Mariotivity/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 31,
+                        "endOffset": 269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 731,
+                    "endColumn": 31,
+                    "endOffset": 758
+                },
+                "from": {
+                    "file": "/Users/yinglai/AndroidStudioProjects/Mariotivity/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 274,
+                        "endColumn": 31,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 763,
+                    "endColumn": 31,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "/Users/yinglai/AndroidStudioProjects/Mariotivity/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 306,
+                        "endColumn": 31,
+                        "endOffset": 333
+                    }
+                }
+            }
+        ]
+    }
+]

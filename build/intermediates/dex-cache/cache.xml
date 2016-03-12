@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/libs/commons-net-ftp-2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="50ab0797241117153a458ce33c1c3dd33a470218">
+        <dex dex="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/build/intermediates/pre-dexed/debug/commons-net-ftp-2.0_e74a2977d2b1ddf8a55f5394674382817e5e2de9.jar" />
+    </item>
+    <item
+        jar="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/libs/aware1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bafeee3f51fe76a046bde5b426b20b04c2fbc93d">
+        <dex dex="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/build/intermediates/pre-dexed/debug/aware1.0_02cc81ec69e7f1169dcc59160eb174fc4de92605.jar" />
+    </item>
+    <item
+        jar="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/libs/BioHarnessBT.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="254d7fdb4afb76cb9c0e7c69d9231cffcb37a717">
+        <dex dex="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/build/intermediates/pre-dexed/debug/BioHarnessBT_bd6b3bfe298bcb5894bc7cfc594ddfbbed140959.jar" />
+    </item>
+
+</items>

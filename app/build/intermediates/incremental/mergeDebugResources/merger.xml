@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/src/main/res"/><source path="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/build/generated/res/rs/debug"/><source path="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/src/debug/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/src/main/res"><file name="icon" path="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/src/main/res/drawable-hdpi/icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/src/main/res/drawable-ldpi/icon.png" qualifiers="ldpi-v4" type="drawable"/><file name="icon" path="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/src/main/res/drawable-mdpi/icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="main" path="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/src/main/res/layout/main.xml" qualifiers="" type="layout"/><file path="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/src/main/res/values/arrays.xml" qualifiers=""><string-array name="locationOptions">
+		<item>"0"</item>
+		<item>"0.1 miles"</item>
+		<item>"0.5 miles"</item>
+		<item>"1.0 miles"</item>
+		<item>"2.0 miles"</item>
+	</string-array><string-array name="timeOptions">
+		<item>"0"</item>
+		<item>"5 minutes"</item>
+		<item>"15 minutes"</item>
+		<item>"1 hour"</item>
+		<item>"3 hours"</item>
+		<item>"6 hours"</item>
+		<item>"12 hours"</item>
+		<item>"1 day"</item>
+		<item>"1 week"</item>
+	</string-array></file><file path="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/src/main/res/values/strings.xml" qualifiers=""><string name="nullvalue">-.--</string><string name="status">Status</string><string name="accel">Accelerometer</string><string name="app_name">Mariotivity</string><string name="z">Z</string><string name="x">X</string><string name="y">Y</string></file></source><source path="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/build/generated/res/rs/debug"/><source path="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Users/yinglai/AndroidStudioProjects/Mariotivity/app/src/debug/res"/></dataSet><mergedItems/></merger>
