@@ -1,6 +1,6 @@
 Mariotivity
 ===========
-Mariotivity is only one of the many apps created during the course "Mobile Health Sensing and Analytics" in the fall semester 2014.
+Mariotivity is only one of the many apps created during the course "Mobile Health Sensing and Analytics" in the fall semester 2014 at the computer science department of UMASS, Amherst.
 
 Just by using sensors of an Android smartphone itself (accelerometer, gyroscope), it is able to detect whether the user is currently standing still or moving. In some cases, it is even able to distinguish between walking and running.
 
