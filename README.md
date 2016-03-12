@@ -19,4 +19,4 @@ Each of these steps were done by our team. The classifier was built in Weka usin
 
 Download
 --------
-You can download the app with this link: [Mariotivity APK](./app/build/outputs/apk/app-debug.apk)
+You can download the app with this link: [Mariotivity APK](./app/build/outputs/apk/app-debug.apk?raw=true)
